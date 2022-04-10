@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ce100-hw3-algo-test-cs", "ce100-hw3-algo-test-cs\ce100-hw3-algo-test-cs.csproj", "{25D29B61-A286-40D8-A0ED-7BD5EF88EE7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ce100-hw3-algo-lib-cs", "ce100-hw3-algo-lib-cs\ce100-hw3-algo-lib-cs.csproj", "{C80346B7-AE97-4A5D-B48B-0D151182F334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25D29B61-A286-40D8-A0ED-7BD5EF88EE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D29B61-A286-40D8-A0ED-7BD5EF88EE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25D29B61-A286-40D8-A0ED-7BD5EF88EE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25D29B61-A286-40D8-A0ED-7BD5EF88EE7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C80346B7-AE97-4A5D-B48B-0D151182F334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C80346B7-AE97-4A5D-B48B-0D151182F334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C80346B7-AE97-4A5D-B48B-0D151182F334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C80346B7-AE97-4A5D-B48B-0D151182F334}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FE05E89-DC05-4A13-A28B-92445A43EC05}
+	EndGlobalSection
+EndGlobal
